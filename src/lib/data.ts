@@ -406,7 +406,7 @@ export const resources: Resource[] = [
     description:
       "Alternative approach to building modern web applications without much JavaScript by sending HTML over the wire.",
     githubLink: "https://github.com/hotwired",
-    logo: "https://hotwired.dev/assets/logo-82e7d58d0704b3b3eaadf9027e0c2ca62cdbbe889a8e4f5801ec3f5662c2ef1c.svg",
+    logo: "https://avatars.githubusercontent.com/u/75388917?s=200&v=4",
     isFree: true,
     category: "Frontend Libraries",
     createdAt: "2022-03-29",

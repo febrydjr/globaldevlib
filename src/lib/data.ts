@@ -250,7 +250,7 @@ export const resources: Resource[] = [
     description:
       "Fast, small, feature-rich JavaScript library for HTML document traversal, event handling, and animation.",
     githubLink: "https://github.com/jquery/jquery",
-    logo: "https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png",
+    logo: "https://static-00.iconduck.com/assets.00/jquery-original-wordmark-icon-485x512-7kn0h2yt.png",
     isFree: true,
     category: "Frontend Libraries",
     createdAt: "2022-03-16",
@@ -298,7 +298,7 @@ export const resources: Resource[] = [
     description:
       "Modest JavaScript framework from the Rails team for HTML you already have, enhancing static sites.",
     githubLink: "https://github.com/hotwired/stimulus",
-    logo: "https://images.seeklogo.com/logo-png/44/3/stimulus-logo-png_seeklogo-444856.png",
+    logo: "https://hotwired.dev/assets/logos/stimulus.svg",
     isFree: true,
     category: "Frontend Libraries",
     createdAt: "2022-03-20",
